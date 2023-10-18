@@ -104,6 +104,7 @@
             }
             Console.Write($"| {(max == 0 ? " " : $"{max}")} ");
 
+
             max = 0;
             if (!B.Empty())
             {
